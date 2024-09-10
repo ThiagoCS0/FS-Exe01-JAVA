@@ -1,5 +1,4 @@
-.idea
-/.idea
+/.idea/
 /build
 /.gradle
 
@@ -32,4 +31,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/.idea/
